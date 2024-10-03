@@ -1,10 +1,10 @@
-# 👋🏻 Hi, I'm Nimshi:
-👩🏻‍💻 I’m passionate about machine learning, computer vision, and signal processing.<br>
+# 👋🏻 Hi, I'm Nimshi,
 🎓 I'm an Electronics and Telecommunications engineering undergraduate at University of Moratuwa. <br>
-👀 I’m deeply interested in applying technology to drive change and solve real-world problems, espcially through AI-driven innovations that can make a real-world impact.<br>
-🌱 I’m currently sharpening my skills in deep learning, computer vision, and signal processing while exploring IoT solutions.<br>
-💼 I’m open to research opportunities, collaborative projects, and internships related to AI/ML, image processing, and IoT.<br>
-✨ I’m looking to collaborate on projects that make an impact, whether it's through open-source AI projects or innovative IoT solutions.<br>
+👩🏻‍💻 Passionate about machine learning, computer vision, and signal processing.<br>
+👀 Deeply interested in applying technology to drive change and solve real-world problems, espcially through AI-driven innovations that can make a real-world impact.<br>
+🌱 Currently sharpening my skills in deep learning, computer vision, and signal processing while exploring IoT solutions.<br>
+💼 Open to research opportunities, collaborative projects, and internships related to AI/ML, image processing, and IoT.<br>
+✨ Looking to collaborate on projects that make an impact, whether it's through open-source AI projects or innovative IoT solutions.<br>
 📫 You can reach me via:<br>Email: nimshiwanniarachchi@gmail.com<br>
 LinkedIn: [NimsW20](https://www.linkedin.com/in/nimshi-wanniarachchi-9a4541241/)
 
